@@ -147,7 +147,7 @@
       <Version>89.0.170</Version>
     </PackageReference>
     <PackageReference Include="CefSharp.WinForms">
-      <Version>89.0.170</Version>
+      <Version>98.1.210</Version>
     </PackageReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
